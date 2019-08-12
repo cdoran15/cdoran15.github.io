@@ -15,4 +15,5 @@ ul li a {
 .jumbotron {
   background-color: #8457;
   -webkit-border-radius: 30px;
-  border-radius: 30px; }
+  border-radius: 30px;
+  opacity: 0.6; }

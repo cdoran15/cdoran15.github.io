@@ -8,6 +8,10 @@
     -webkit-border-radius:$radius;
     border-radius: $radius;
 }
+
+@mixin opacity($opacity) {
+    opacity: $opacity;
+}
 @import "fontstyles";
 @import "colours";
 @import "nav";
