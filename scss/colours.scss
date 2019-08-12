@@ -1,4 +1,4 @@
-$prim-colour:blue;
+$prim-colour:#8457;
 $sec-colour:#8545;
 $comicsans:"Comic Sans MS";
 
@@ -6,4 +6,5 @@ $comicsans:"Comic Sans MS";
 .colour {
     color:$prim-colour;
     font-family: $comicsans;
+    @include center;
 }

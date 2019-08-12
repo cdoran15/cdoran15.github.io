@@ -1,2 +1,14 @@
+@mixin center {
+    display: block;
+    margin: 0 auto;
+}
+
+
+@mixin border-rad ($radius){
+    -webkit-border-radius:$radius;
+    border-radius: $radius;
+}
 @import "fontstyles";
 @import "colours";
+@import "nav";
+

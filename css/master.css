@@ -4,5 +4,15 @@
   font-size: xx-large; }
 
 .colour {
-  color: blue;
-  font-family: "Comic Sans MS"; }
+  color: #8457;
+  font-family: "Comic Sans MS";
+  display: block;
+  margin: 0 auto; }
+
+ul li a {
+  color: #8457; }
+
+.jumbotron {
+  background-color: #8457;
+  -webkit-border-radius: 30px;
+  border-radius: 30px; }
