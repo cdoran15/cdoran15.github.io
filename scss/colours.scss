@@ -1,3 +1,9 @@
+$prim-colour:blue;
+$sec-colour:#8545;
+$comicsans:"Comic Sans MS";
+
+
 .colour {
-    color: aquamarine;
+    color:$prim-colour;
+    font-family: $comicsans;
 }
